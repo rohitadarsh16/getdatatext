@@ -27,5 +27,6 @@ def get_image_text(filepath):
     return text
 
 image_filepath = r"C:\ekbet\Screenshot (107).png"
+# give api url
 
 print(get_image_text(image_filepath)
